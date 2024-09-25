@@ -12,18 +12,7 @@ This project is a simple backend built using **Node.js** and **MySQL** that allo
 - **REST API** to handle user registration with addresses
 - A simple `POST` request to save user and address information
 
-## Project Structure
 
-user-address-backend/
-│
-├── config/
-│   └── database.js
-├── models/
-│   ├── user.js
-│   └── address.js
-├── migrations/
-├── index.js
-└── package.json
 
 ### Technologies Used
 
@@ -33,4 +22,3 @@ user-address-backend/
 - **MySQL**: Relational database used for storing user and address information
 - **body-parser**: Middleware to parse incoming request bodies
 
-- 
